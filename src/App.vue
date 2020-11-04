@@ -1,3 +1,5 @@
+<!-- the new ref sugar RFC, try it now! -->
+
 <template>
   <button @click="inc">{{ count }} * 2 = {{ doubled }}</button>
 </template>

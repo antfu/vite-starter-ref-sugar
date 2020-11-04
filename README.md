@@ -17,3 +17,19 @@ ref: doubled = computed(() => count * 2)
 const inc = () => count++
 </script>
 ```
+
+### Usage
+
+Install the dependencies
+
+> you need to use [`yarn`](https://yarnpkg.com/) or [`pnpm`](https://pnpm.js.org/), `npm` won't work for some reason
+
+```bash
+yarn # pnpm i
+```
+
+Start the server
+
+```bash
+yarn dev # pnpm run dev
+```

@@ -2,7 +2,7 @@
   "name": "vite-starter-ref-sugar",
   "private": true,
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build"
   },
   "dependencies": {
