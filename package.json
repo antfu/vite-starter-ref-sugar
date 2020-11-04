@@ -1,0 +1,15 @@
+{
+  "name": "vite-starter-ref-sugar",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "npm:@knightly/vue@ref-sugar"
+  },
+  "devDependencies": {
+    "vite": "1.0.0-rc.9",
+    "@vue/compiler-sfc": "npm:@knightly/vue__compiler-sfc@ref-sugar"
+  }
+}
