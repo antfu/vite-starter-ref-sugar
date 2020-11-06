@@ -33,3 +33,17 @@ Start the server
 ```bash
 yarn dev # pnpm run dev
 ```
+
+### Manually
+
+Just update your dependencies and reinstall the packages
+
+```json
+  "dependencies": {
+    "vue": "npm:@knightly/vue@ref-sugar"
+  },
+  "devDependencies": {
+    "vite": "1.0.0-rc.9",
+    "@vue/compiler-sfc": "npm:@knightly/vue__compiler-sfc@ref-sugar"
+  }
+````
