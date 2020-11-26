@@ -1,3 +1,9 @@
+# [DEPREACTED]
+
+The syntax is now shipped with vue@^3.0.3 + vite@^1.0.0-rc.13 or vue-loader@next.
+
+----
+
 # vite-starter-ref-sugar
 
 ![Nightly Build](https://github.com/knightlyjs/knightly/blob/main/res/badge.svg?raw=true)
